@@ -313,7 +313,7 @@ function App() {
 
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-12">
               {[
-                { icon: Mail, text: "rahul@example.com", href: "mailto:rahul@example.com" },
+                { icon: Mail, text: "rahulpt002@gmail.com", href: "mailto:rahulpt002@gmail.com" },
                 { icon: Github, text: "GitHub", href: "https://github.com" },
                 { icon: Linkedin, text: "LinkedIn", href: "https://linkedin.com" }
               ].map((contact, index) => (
