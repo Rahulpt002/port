@@ -101,7 +101,7 @@ function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
           >
-            Frontend
+            Fullstack
             <span className="apple-text-gradient block">Developer</span>
           </motion.h1>
           
@@ -160,7 +160,7 @@ function App() {
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6">About Me</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              With 5+ years of experience in frontend development, I specialize in creating 
+              With 5+ years of experience in fullstack development, I specialize in creating 
               user-centered digital experiences that combine beautiful design with robust functionality.
             </p>
           </motion.div>
@@ -313,7 +313,7 @@ function App() {
 
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-12">
               {[
-                { icon: Mail, text: "alex@example.com", href: "mailto:alex@example.com" },
+                { icon: Mail, text: "rahul@example.com", href: "mailto:rahul@example.com" },
                 { icon: Github, text: "GitHub", href: "https://github.com" },
                 { icon: Linkedin, text: "LinkedIn", href: "https://linkedin.com" }
               ].map((contact, index) => (
@@ -344,7 +344,7 @@ function App() {
       {/* Footer */}
       <footer className="py-8 px-6 border-t border-gray-200">
         <div className="max-w-6xl mx-auto text-center text-gray-600">
-          <p>&copy; 2024 Alex Chen. Crafted with passion and code.</p>
+          <p>&copy; 2024 Rahul pt. Crafted with passion and code.</p>
         </div>
       </footer>
     </div>
