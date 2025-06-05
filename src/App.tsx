@@ -64,7 +64,7 @@ function App() {
               className="text-2xl font-bold apple-text-gradient"
               whileHover={{ scale: 1.05 }}
             >
-              Alex Chen
+              Rahul pt
             </motion.div>
             <div className="hidden md:flex space-x-8">
               {['About', 'Projects', 'Skills', 'Contact'].map((item) => (
