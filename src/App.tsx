@@ -160,7 +160,7 @@ function App() {
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6">About Me</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              With 5+ years of experience in fullstack development, I specialize in creating 
+              With 1+ years of experience in fullstack development, I specialize in creating 
               user-centered digital experiences that combine beautiful design with robust functionality.
             </p>
           </motion.div>
@@ -314,7 +314,7 @@ function App() {
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-12">
               {[
                 { icon: Mail, text: "rahulpt002@gmail.com", href: "mailto:rahulpt002@gmail.com" },
-                { icon: Github, text: "GitHub", href: "https://github.com" },
+                { icon: Github, text: "GitHub", href: "https://github.com/rahulpt002" },
                 { icon: Linkedin, text: "LinkedIn", href: "https://linkedin.com" }
               ].map((contact, index) => (
                 <motion.a 
